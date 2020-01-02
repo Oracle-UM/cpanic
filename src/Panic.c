@@ -1,4 +1,4 @@
-#include "utils/Panic.h"
+#include "Panic.h"
 
 #include <stdarg.h>
 #include <stdio.h>
